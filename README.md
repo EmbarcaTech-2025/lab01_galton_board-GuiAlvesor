@@ -63,6 +63,8 @@ Simular o tabuleiro com os pinos, coletores e múltiplas bolas em movimento, que
 
 ## 🖼️ Imagens do Projeto
 
+
+## 🎬​🎥​ Vídeo do Projeto
 ### Display Oled durante execução
 ![galton_board](./video/GifMaker_20250509183308377.gif)
 ---
