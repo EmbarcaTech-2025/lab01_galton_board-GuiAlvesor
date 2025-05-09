@@ -55,7 +55,10 @@ Simular o tabuleiro com os pinos, coletores e múltiplas bolas em movimento, que
 
 - Os botões controlam o desbalanceamento experimental do histograma, dando a opção dentre dois tipos: A e B.
     - Caso pressionado o Botão A -> Desbalanceamento total para a esquerda (100%)
-     Caso pressionado o Botão B -> Desbalanceamento 25%/75% (Esquerda/Direita) 
+    - Caso pressionado o Botão B -> Desbalanceamento 25%/75% (Esquerda/Direita) 
+
+- A quantidade de bolas simultâneas é delimitada pelo tempo de atualizão do sleep_ms() final. Quanto menor, mais "bolinhas simultâneas"
+
 
 ##  Arquivos
 
