@@ -36,7 +36,7 @@ pico_sdk_init()
 # Add executable. Default name is the project name, version 0.1
 
 add_executable(galton_board 
-    src/galton_board.c 
+    src/lab01-galton-board.c 
     inc/ssd1306_i2c.c)
 
 pico_set_program_name(galton_board "galton_board")
