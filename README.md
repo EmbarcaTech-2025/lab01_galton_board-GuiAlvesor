@@ -65,7 +65,7 @@ Simular o tabuleiro com os pinos, coletores e múltiplas bolas em movimento, que
 - `lab01-galton-board.c`: Código principal do projeto;
 
 ## 🖼️ Imagens do Projeto
-![galton_board](./imagem/.jpeg)
+![galton_board](./imagem/imagem_galton_board.jpeg)
 
 ## 🎬​🎥​ Vídeo do Projeto
 ### Display Oled durante execução
