@@ -54,15 +54,15 @@ Simular o tabuleiro com os pinos, coletores e múltiplas bolas em movimento, que
 - Os coletotres é atualizado para armazenar a bolinha e aumenta a altura de sua coluna referente;
 
 - Os botões controlam o desbalanceamento experimental do histograma, dando a opção dentre dois tipos: A e B.
-    *Caso pressionado o Botão A -> Desbalanceamento total para a esquerda (100%)
-    *Caso pressionado o Botão B -> Desbalanceamento 25%/75% (Esquerda/Direita) 
+    - Caso pressionado o Botão A -> Desbalanceamento total para a esquerda (100%)
+     Caso pressionado o Botão B -> Desbalanceamento 25%/75% (Esquerda/Direita) 
 
 ##  Arquivos
 
 - `lab01-galton-board.c`: Código principal do projeto;
 
 ## 🖼️ Imagens do Projeto
-
+![galton_board](./imagem/.jpeg)
 
 ## 🎬​🎥​ Vídeo do Projeto
 ### Display Oled durante execução
